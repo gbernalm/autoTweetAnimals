@@ -10,7 +10,7 @@
   <h3 align="center">cuteAnimaux</h3>
 
   <p align="center">
-    Set of scripts that download images from google search. Categorizes them using openCV and with with a set of pre-configured comments, manages to tweet the pictures along with a proper caption that matches the animal in the posted picture.
+    Set of scripts that download images from google search, categorizes them using openCV and with with a set of pre-configured comments, manages to tweet the pictures along with a proper caption that matches the animal in the posted picture.
     <br />
     <a href="https://github.com/gbernalm/cuteAnimaux"><strong>Explore the docs »</strong></a>
     <br />
